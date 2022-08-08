@@ -1,7 +1,4 @@
 # Statistics of acceptance rate for the main AI conferences
-===== 
-
-![](conference_trends.png)
 
 ### Natural Language Processing and Computational Linguistics
 
@@ -228,3 +225,5 @@ Note:
 
 1. For **KDD** and **TheWebConf** (formerly known as **WWW**), only the papers from research track are counted.  
 2. For **ICDM**, submissions of short paper and those of long paper are in the same session and the decision of the paper type is made according to its quality.
+
+Our statistics is built on the source code from [AI-Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate/blob/master/README.md). Thanks for their work.
